@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Georgia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andria123-bot&label=Profile%20views&color=0e75b6&style=flat" alt="andria123-bot" />
+  <img src="https://yourgiflink.gif" alt="Your GIF Description" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
