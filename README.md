@@ -4,6 +4,10 @@
 <h1 align="center">Hi 👋, I'm Andria</h1>
 <h3 align="center">A passionate web developer from Georgia</h3>
 
+<div align="left">
+  <img src="https://media.tenor.com/HO3YhPBgUKIAAAAC/cyberpunk-edgerunners-lucy.gif" alt="Cyberpunk Edgerunners" width="400"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andria123-bot&label=Profile%20views&color=0e75b6&style=flat" alt="andria123-bot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andria123-bot" alt="andria123-bot" /></a> </p>
