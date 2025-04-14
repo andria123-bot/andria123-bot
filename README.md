@@ -4,9 +4,12 @@
 <h1 align="center">Hi 👋, I'm Andria</h1>
 <h3 align="center">A passionate web developer from Georgia</h3>
 
-<div align="left">
-  <img src="https://media.tenor.com/tMoRJ_PoSpYAAAAC/sounds-fine-david-martinez.gif" alt="Cyberpunk Edgerunners - David Martinez" width="400">
+<div align="center">
+  <img src="https://media.tenor.com/tMoRJ_PoSpYAAAAC/sounds-fine-david-martinez.gif" 
+       alt="Cyberpunk Edgerunners - David Martinez" 
+       width="400" />
 </div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andria123-bot&label=Profile%20views&color=0e75b6&style=flat" alt="andria123-bot" /> </p>
