@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Andria</h1>
 <h3 align="center">A passionate web developer from Georgia</h3>
 
-<img src="https://media1.tenor.com/m/EIzp03Yuy1EAAAAd/sounds-fine-david-martinez.gif" 
-     alt="David Martinez - Cyberpunk Edgerunners" 
-     width="auto" />
+<div align="center">
+     <img src="https://media1.tenor.com/m/EIzp03Yuy1EAAAAd/sounds-fine-david-martinez.gif" alt="David Martinez - Cyberpunk Edgerunners" width="auto" />
+</div>
 
 
 
