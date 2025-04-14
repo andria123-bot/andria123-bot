@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Andria</h1>
 <h3 align="center">A passionate web developer from Georgia</h3>
 
-<img src="https://tenor.com/view/sounds-fine-david-martinez-cyberpunk-edgerunners-id-like-that-that-would-be-great-gif-26917248" 
+<img src="https://media1.tenor.com/m/EIzp03Yuy1EAAAAd/sounds-fine-david-martinez.gif" 
      alt="David Martinez - Cyberpunk Edgerunners" 
      width="400" />
 
