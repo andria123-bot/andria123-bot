@@ -5,7 +5,7 @@
 <h3 align="center">A passionate web developer from Georgia</h3>
 
 <div align="left">
-  <img src="https://media.tenor.com/HO3YhPBgUKIAAAAC/cyberpunk-edgerunners-lucy.gif" alt="Cyberpunk Edgerunners" width="400"/>
+  <img src="https://media.tenor.com/HO3YhPBgUKIAAAAC/cyberpunk-edgerunners-lucy.gif" alt="Cyberpunk Edgerunners" width="auto"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andria123-bot&label=Profile%20views&color=0e75b6&style=flat" alt="andria123-bot" /> </p>
