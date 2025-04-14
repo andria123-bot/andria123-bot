@@ -5,7 +5,7 @@
 <h3 align="center">A passionate web developer from Georgia</h3>
 
 <div align="center">
-     <img src="https://media1.tenor.com/m/EIzp03Yuy1EAAAAd/sounds-fine-david-martinez.gif" alt="David Martinez - Cyberpunk Edgerunners" width="auto" />
+     <img src="https://media1.tenor.com/m/b67ZlZdTsQ4AAAAd/cyberpunk-edgerunners.gif" alt="David Martinez - Cyberpunk Edgerunners" width="auto" />
 </div>
 
 
