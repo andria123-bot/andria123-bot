@@ -6,7 +6,7 @@
 
 <img src="https://media1.tenor.com/m/EIzp03Yuy1EAAAAd/sounds-fine-david-martinez.gif" 
      alt="David Martinez - Cyberpunk Edgerunners" 
-     width="700" />
+     width="auto" />
 
 
 
