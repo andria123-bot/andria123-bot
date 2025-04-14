@@ -5,8 +5,9 @@
 <h3 align="center">A passionate web developer from Georgia</h3>
 
 <div align="left">
-  <img src="[https://media.tenor.com/HO3YhPBgUKIAAAAC/cyberpunk-edgerunners-lucy.gif](https://tenor.com/view/sounds-fine-david-martinez-cyberpunk-edgerunners-id-like-that-that-would-be-great-gif-26917248)" alt="Cyberpunk Edgerunners" width="auto"/>
+  <img src="https://media.tenor.com/tMoRJ_PoSpYAAAAC/sounds-fine-david-martinez.gif" alt="Cyberpunk Edgerunners - David Martinez" width="400">
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andria123-bot&label=Profile%20views&color=0e75b6&style=flat" alt="andria123-bot" /> </p>
 
