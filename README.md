@@ -8,14 +8,14 @@
 ---
 
 ## 🚀 Quick Links  
-| [GitHub Repos](https://github.com/andria123-bot?tab=repositories) | [Email Me](mailto:andria.lezhava660@gmail.com) | [Facebook](https://fb.com/andria lezhava) | [Instagram](https://instagram.com/andria.lezhava) |
+| [GitHub Repos](https://github.com/andria123-bot?tab=repositories) | [Email Me](mailto:andria.lezhava660@gmail.com) | [Facebook](https://facebook.com/andria.lezhava.611319) | [Instagram](https://instagram.com/andria.lezhava) |
 | --- | --- | --- | --- |
 
 ---
 
 ## 👨‍💻 About Me
 I'm a curious and passionate web developer who loves building projects that solve real problems.  
-Currently diving deep into **HTML, CSS, Python**, and constantly exploring new tools and frameworks.  
+Currently diving deep into **HTML, CSS, Python, Javascript, Typescript, Lua**, and constantly exploring new tools and frameworks.  
 Fun fact: I enjoy the thrill of exploring abandoned houses — creativity thrives on adventure!
 
 ---
