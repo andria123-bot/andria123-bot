@@ -53,9 +53,9 @@ Fun fact: I enjoy the thrill of exploring abandoned houses — creativity thrive
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andria123-bot" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
