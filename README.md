@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Quick Links  
-| [GitHub Repos](https://github.com/andria123-bot?tab=repositories) | [Email Me](mailto:andria.lezhava660@gmail.com) | [Facebook](https://facebook.com/andria.lezhava.611319) | [Instagram](https://instagram.com/andria.lezhava) |
+| [GitHub Repos](https://github.com/andria123-bot?tab=repositories) | [Email Me](mailto:andria.lezhava660@gmail.com) | [Facebook](https://facebook.com/andria.lezhava.611319) |
 | --- | --- | --- | --- |
 
 ---
