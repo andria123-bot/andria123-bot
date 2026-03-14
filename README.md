@@ -18,6 +18,10 @@ I'm a curious and passionate web developer who loves building projects that solv
 Currently diving deep into **HTML, CSS, Python, Javascript, Typescript, Lua**, and constantly exploring new tools and frameworks.  
 Fun fact: I enjoy the thrill of exploring abandoned houses — creativity thrives on adventure!
 
+--
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ---
 
 ## 🛠️ My Toolbox
