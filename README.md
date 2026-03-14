@@ -18,10 +18,6 @@ I'm a curious and passionate web developer who loves building projects that solv
 Currently diving deep into **HTML, CSS, Python, Javascript, Typescript, Lua**, and constantly exploring new tools and frameworks.  
 Fun fact: I enjoy the thrill of exploring abandoned houses — creativity thrives on adventure!
 
---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ---
 
 ## 🛠️ My Toolbox
@@ -54,6 +50,7 @@ Fun fact: I enjoy the thrill of exploring abandoned houses — creativity thrive
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=andria123-bot&show_icons=true&locale=en" alt="GitHub Stats" /></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andria123-bot&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=andria123-bot)](https://git.io/streak-stats)
   </tr>
 </table>
 
