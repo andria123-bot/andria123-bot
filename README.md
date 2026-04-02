@@ -21,12 +21,6 @@ I'm a developer building solutions for the real world. I find my flow in the int
 
 ---
 
-## 📈 Network Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andria123-bot&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andria123-bot&layout=compact&theme=transparent&title_color=00f2ff&text_color=ffffff&hide_border=true" height="165" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andria123-bot&theme=transparent&fire=00f2ff&sideNums=ffffff&sideLabels=ffffff&stroke=00f2ff&hide_border=true" />
 </div>
