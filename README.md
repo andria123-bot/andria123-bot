@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=ANDRIA%20LEZHAVA&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark" />
 
-  <img src="https://media1.tenor.com/m/b67ZlZdTsQ4AAAAd/cyberpunk-edgerunners.gif" width="100%" alt="Cyberpunk Edgerunners" />
+  <img src="https://media1.tenor.com/m/b67ZlZdTsQ4AAAAd/cyberpunk-edgerunners.gif" width="50%" alt="Cyberpunk Edgerunners" />
 
   ### 🌐 Web Developer // Tech Explorer // Georgia 🇬🇪
   
