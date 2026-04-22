@@ -3,7 +3,7 @@
 
   <img src="https://media1.tenor.com/m/b67ZlZdTsQ4AAAAd/cyberpunk-edgerunners.gif" width="50%" alt="Cyberpunk Edgerunners" />
 
-  ### 🌐 Web Developer // Tech Explorer // Georgia 🇬🇪
+  ### 🌐 Web Developer // Game Developer // Tech Explorer // Georgia 🇬🇪
   
   [**GitHub**](https://github.com/andria123-bot?tab=repositories) • [**Email**](mailto:andria.lezhava660@gmail.com) • [**Social**](https://facebook.com/andria.lezhava.611319)
 
