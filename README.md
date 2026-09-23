@@ -5,7 +5,7 @@
 
   ### 🌐 Web Developer // Game Developer // Tech Explorer // Georgia 🇬🇪
   
-  [**GitHub**](https://github.com/andria123-bot?tab=repositories) • [**Email**](mailto:andria.lezhava660@gmail.com) • 
+  [**GitHub**](https://github.com/andria123-bot?tab=repositories) • [**Email**](mailto:andria.lezhava660@gmail.com)
 
 ---
 
